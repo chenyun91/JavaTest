@@ -12,5 +12,5 @@ package branchA;
  * chenyun      12:00    1.0        Create
  */
 class BranchA {
-	//分支A
+	//修改了分支A
 }
